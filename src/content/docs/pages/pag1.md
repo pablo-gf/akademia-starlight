@@ -1,6 +1,6 @@
 ---
-title: AKADEMIA TEST
+title: ¿Cómo funcionamos?
 description: THis is going to contain some information about the Akademia
 ---
 
-Example text
+La Akademia es un grupo orientado a ...
