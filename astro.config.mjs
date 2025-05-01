@@ -8,7 +8,8 @@ export default defineConfig({
 		starlight({
 			title: 'La Akademia',
 			logo: {
-				src: './src/assets/logo.svg',
+				light: './src/assets/dark-logo.svg',
+				dark: './src/assets/light-logo.svg',
 			  },
 			customCss: [
 				'./src/colores.css',

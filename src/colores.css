@@ -14,7 +14,6 @@
 :root {
     --sl-color-accent-low: var(--secondary-dark-blue); /* Dark Blue */
     --sl-color-accent: var(--primary-blue); /* Primary Blue */
-    --sl-color-accent-high: var(--secondary-light-blue); /* Light Blue */
     --sl-color-white: var(--primary-white); /* White */
     --sl-color-gray-1: #c2c2c2; /* Neutral Gray */
     --sl-color-gray-2: #8b8b8b; /* Neutral Gray */
