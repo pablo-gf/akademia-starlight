@@ -25,8 +25,9 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: '¿Cómo funcionamos?', slug: 'pages/pag1' },
+						{ label: '¿Cómo registrar miembros?', slug: 'pages/pag2' },
 					],
-				}
+				},
 			],
 		}),
 	],
